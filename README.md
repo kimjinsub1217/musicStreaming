@@ -12,10 +12,9 @@
 Exoplayer, Seekbar Custom 하기, mockey api로 음악목록 만듬
 
 ## ✔실행화면
-
+![캡처1](https://user-images.githubusercontent.com/76811495/155010929-5bb39b11-d073-4714-9bee-0ef03dca3845.PNG)
 <br>
 <재생목록>
-
-![동영상플레이](https://user-images.githubusercontent.com/76811495/154853644-db04574b-a980-4bbe-a31b-7b74a29783ea.PNG)
+![캡처2](https://user-images.githubusercontent.com/76811495/155010952-dceee93f-1f62-4037-97c8-7ef12d7428ec.PNG)
 <br>
 <음악 플레이>
