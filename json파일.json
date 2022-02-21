@@ -1,0 +1,23 @@
+{
+    "musics":[
+        {
+            "track" : "음악지워요1",
+            "streamUrl": "http://naver.me/FDle3Oag",
+            "artist": "김진섭",
+            "coverUrl":"https://images.velog.io/images/abc9985/post/6cb54a5f-ce67-4a61-84b0-c315e5d6e08a/%EC%A0%9C%EB%AA%A9%20%EC%97%86%EC%9D%8C.png"
+        },
+        {
+            "track" : "음악지워요2",
+            "streamUrl": "http://naver.me/FDle3Oag",
+            "artist": "김진섭",
+            "coverUrl":"https://images.velog.io/images/abc9985/post/6cb54a5f-ce67-4a61-84b0-c315e5d6e08a/%EC%A0%9C%EB%AA%A9%20%EC%97%86%EC%9D%8C.png"
+        },
+        {
+            "track" : "음악지워요3",
+            "streamUrl": "http://naver.me/FDle3Oag",
+            "artist": "김진섭",
+            "coverUrl":"https://images.velog.io/images/abc9985/post/6cb54a5f-ce67-4a61-84b0-c315e5d6e08a/%EC%A0%9C%EB%AA%A9%20%EC%97%86%EC%9D%8C.png"
+        }
+    ]
+}
+
